@@ -33,6 +33,11 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 4.Create nodes for inputs and outputs to generate the timing diagram.
 5.For different input combinations generate the timing diagram
 
+**TRUTH TABLE**
+
+![Screenshot 2025-01-05 143037](https://github.com/user-attachments/assets/6032946f-f714-441c-8271-fc9a3e9a3da4)
+
+
 
 **PROGRAM**
 
@@ -61,11 +66,10 @@ endmodule
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
-![image](https://github.com/user-attachments/assets/8321880b-3f30-4a27-85c0-3066b0377ad4)
 
-**TRUTH TABLE**
+![image](https://github.com/user-attachments/assets/5349c6f6-d73b-4e18-ac99-590359e33251)
 
-![image](https://github.com/user-attachments/assets/b9b7f4bc-918e-4a6d-98cf-fef5613ce01c)
+
 
 
 **RESULTS**
